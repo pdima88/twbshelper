@@ -1,0 +1,20 @@
+{
+    "name": "pdima88/twbshelper",
+    "description": "Twitter Bootstrap 3 helper classes for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puchkin Dmitriy",
+            "email": "pdima88@mail.ru"
+        }
+    ],
+    "require": {
+        "nette/utils": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "pdima88\\twbshelper\\": "/"
+        }
+    } 
+}
